@@ -1,0 +1,4 @@
+rootProject.name = 'multi2'
+include 'core'
+include 'api'
+
